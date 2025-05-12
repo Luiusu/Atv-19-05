@@ -1,0 +1,68 @@
+html {
+
+    background-color: rgb(40, 47, 110);
+
+}
+
+body {
+
+    margin: 0;
+
+}
+
+header {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(88, 66, 25);
+
+}
+
+h1 {
+
+    color: orangered;
+    margin-left: 100px;
+
+}
+
+.insta, .bio {
+
+    color: rgb(146, 105, 43);
+    font-size: 18px;
+    text-decoration: none;
+    margin-right: 45px;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+    color: rgb(150, 117, 10);
+
+}
+
+p {
+
+    font-family: "Roboto", sans-serif;
+
+}
+
+.bio {
+
+    margin-right: 100px;
+
+}
+
+.image {
+
+    margin-bottom: 50px;
+
+}
+
+footer {
+
+    background-color: rgb(88, 66, 25);
+    padding: 10px 15px;
+
+}
