@@ -64,5 +64,35 @@ footer {
 
     background-color: rgb(88, 66, 25);
     padding: 10px 15px;
+    margin-top: 50px;
+    padding-top: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
 
 }
+
+        .quiz {
+            margin: 20px 0;
+        }
+
+        .quiz fieldset {
+            margin-bottom: 20px;
+            padding: 10px;
+        }
+
+        .quiz legend {
+            font-weight: bold;
+        }
+
+        .quiz button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .quiz button:hover {
+            background-color: #45a049;
+        }
